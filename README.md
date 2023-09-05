@@ -1,3 +1,4 @@
+
 <h1 align="left">Street_Light_Monitoring_System_Using_Iot </h1>
 <div class="container" display = flex> 
   <div class="left">
@@ -8,6 +9,7 @@
   </div>
   
   <div class="right">
+    <p>socnsdv</p>
        <video autoplay muted loop src="./Minor Video.mp4"></video>
   </div>
 
